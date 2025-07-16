@@ -11,4 +11,4 @@
 *.txt 
 
 # ! 를 파일명 앞에 쓰면 앞의 규칙에서 제외
-!
+!requirements.txt
